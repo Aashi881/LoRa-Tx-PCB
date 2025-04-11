@@ -13,12 +13,3 @@ All necessary components are mentioned in the circuit, your task is to create th
 2. Spacing between ESP32 headers on the PCB should be 15.24 mm
 3. Routing and component placement should be optimized and efficient. 
 
-### Submission 
-After completion you need to create a repo of your project work as public and share the link to `electramite@gmail.com`
-Also note that below files are mendatory to be present in the repo for successful evaluation of the assignment 
-
-1. PCB layout file
-2. Circuit diagram 
-3. Screenshots of both 
-4. Prepare a small `README` along with the attached screenshots (somthing similar to this one).
-
